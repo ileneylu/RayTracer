@@ -22,21 +22,27 @@ This project implements a ray tracer with support of various artifact.
 ## Gallery
 
 ![](/results/torus.webp)
+
 Torus
 
 ![](/results/texture_mapping.webp)
+
 Texture Mapping
 
 ![](/results/bump_mapping.webp)
+
 Bump Mapping
 
 ![](/results/glossy.webp)
+
 Glossy Reflection & Refraction
 
 ![](/results/perlin.webp)
+
 Marble Pattern generated with Perlin Noise
 
 ![](/results/motion_blur.webp)
+
 Motion Blur (constant acceleration)
 
 ## Reference
